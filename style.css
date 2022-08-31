@@ -1,0 +1,23 @@
+h1 {
+    color: #355764;
+}
+h2 {
+    color: #3F4E4F;
+    border: #FCF8E8;
+}
+h3 {
+    color: #377D71;
+}
+body {
+    background-color: #ffffff;
+    color: #395B64;
+}
+ul{
+    list-style-type: circle;
+}
+/*THis is a comment!*/
+#introduction{
+    font-size: 14px;
+    color: #FF8B8B;
+
+}
