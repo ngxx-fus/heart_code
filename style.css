@@ -21,3 +21,22 @@ ul{
     color: #FF8B8B;
 
 }
+#a_random{
+    font-size: 14px;
+    color: #421919;
+    background-color: #b4cdff;
+}
+.overview{
+    color: #b4cdff;
+    height: 350px;
+    font-size: 16px;
+    background-color: #000000;
+}
+#Volcanoes{
+        width: 100px;
+}
+img{
+    width: 700px;
+    margin: 10px solid ;
+    border: 6px solid #F9F9C5;
+}
